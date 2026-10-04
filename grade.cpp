@@ -7,7 +7,6 @@ int main(){
     double a;
     cout << "ENTER THE PERCENTAGE: ";
     cin >> a;
-    cout << " " << endl;
 
     if (a>=90){
         cout << "A-GRADE";
